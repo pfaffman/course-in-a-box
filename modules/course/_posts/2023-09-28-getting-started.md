@@ -1,6 +1,5 @@
 ---
-title: My Idea
-published: true
+title: My Starting Idea
 ---
 
 ## My Course Idea

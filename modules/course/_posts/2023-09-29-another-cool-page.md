@@ -1,6 +1,5 @@
 ---
-title: Another Idea
-published: true
+title: Another cool page Idea
 ---
 # Here is my other idea
 
