@@ -1,5 +1,6 @@
 ---
 title: My Idea
+published: true
 ---
 
 ## My Course Idea

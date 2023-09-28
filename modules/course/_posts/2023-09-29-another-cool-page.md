@@ -1,5 +1,6 @@
 ---
 title: Another Idea
+published: true
 ---
 # Here is my other idea
 
