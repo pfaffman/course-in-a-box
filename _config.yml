@@ -11,8 +11,7 @@ p2pu_ga_tracking_code: UA-55722824-1
 exclude: [Gemfile, Gemfile.lock, README.md]
 
 defaults:
-  -
-    scope:
+  - scope:
       path: "modules" # an empty string here means all files in the project
     values:
       layout: "course_page"
@@ -29,7 +28,7 @@ prose:
 
 # Set some personal styles and logo for your course
 # this is a hex value http://www.w3schools.com/tags/ref_colorpicker.asp
-jumbotron_color: "#58D7CB"
+jumbotron_color: "#0066ff"
 jumbotron_image: "img/class.jpg"
 # jumbotron_mask: "img/jumbotron-mask.svg"
 # jumbotron_icon: "img/class-drawing.jpg"
